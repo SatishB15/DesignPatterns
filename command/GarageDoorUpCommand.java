@@ -1,4 +1,5 @@
 package command;
+
 public class GarageDoorUpCommand implements Command {
 	GarageDoor garageDoor;
 

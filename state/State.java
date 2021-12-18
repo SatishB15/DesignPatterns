@@ -1,4 +1,4 @@
-package headfirst.designpatterns.state.gumballstatewinner;
+package state;
 
 public interface State {
  

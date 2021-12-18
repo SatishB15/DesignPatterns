@@ -1,4 +1,4 @@
-package headfirst.designpatterns.command.remote;
+package command;
 
 public class Hottub {
 	boolean on;
